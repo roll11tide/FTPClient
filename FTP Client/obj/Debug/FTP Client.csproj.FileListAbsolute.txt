@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\bin\Debug\FTP Client.exe.config
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\bin\Debug\FTP Client.exe
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\bin\Debug\FTP Client.pdb
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Login_Page.resources
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Reset_Credentials.resources
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.exe
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.pdb
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\bin\Debug\FTP Client.exe.config
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.exe
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.pdb
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\bin\Debug\FTP Client.exe
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\bin\Debug\FTP Client.pdb
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Form1.resources
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Login_Page.resources
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Properties.Resources.resources
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP_Client.Reset_Credentials.resources
+C:\Users\Jesse\Dropbox\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\FTP Client\FTP Client\obj\Debug\FTP Client.csprojResolveAssemblyReference.cache
